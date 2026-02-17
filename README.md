@@ -1,3 +1,4 @@
+# https://fullstack-node-app1-k2jbb1m4j-karlojurics-projects.vercel.app/
 # 👻 From the Other Side
 
 A full-stack Node.js application for sharing and documenting paranormal encounters and ghostly sightings.
