@@ -1,0 +1,24 @@
+{
+  "name": "from-the-other-side",
+  "version": "1.0.0",
+  "description": "a platform fo sharing ghostly encounters",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Karlo Juric",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlojuric/Fullstack-Node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karlojuric/Fullstack-Node-app/issues"
+  },
+  "homepage": "https://github.com/karlojuric/Fullstack-Node-app#readme",
+  "dependencies": {
+    "sanitize-html": "^2.17.0"
+  }
+}
